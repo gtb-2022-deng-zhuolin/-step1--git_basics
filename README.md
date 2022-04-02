@@ -1,4 +1,4 @@
 # Welcome to Theo's Org #
 
 
-[img] ("../IMG_4742.png")
+![landscape] (/img/IMG_4742.png)
